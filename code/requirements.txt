@@ -1,0 +1,2 @@
+py_midicsv==4.1.2
+midi_player==0.5.1
